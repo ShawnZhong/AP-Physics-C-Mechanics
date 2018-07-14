@@ -1,0 +1,17 @@
+{
+  "name": "ap-macroeconomics",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnZhong/AP-Macroeconomics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShawnZhong/AP-Macroeconomics/issues"
+  },
+  "homepage": "https://github.com/ShawnZhong/AP-Macroeconomics#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-meta": "^0.1.12",
+    "gitbook-plugin-sitemap": "^1.2.0"
+  }
+}
