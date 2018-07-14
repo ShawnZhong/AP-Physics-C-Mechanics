@@ -3,7 +3,8 @@
 	"plugins": [
 		"meta",
 		"katex",
-		"sitemap"
+		"sitemap",
+		"ga"
 	],
 	"pluginsConfig": {
 		"meta": {
@@ -12,6 +13,9 @@
 		},
 		"sitemap": {
 			"hostname": "https://mech.shawnzhong.com/"
+		},
+		"ga": {
+			"token": "UA-51728620-1"
 		}
 	}
 }

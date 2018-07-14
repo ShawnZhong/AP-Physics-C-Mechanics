@@ -4,14 +4,12 @@
     "type": "git",
     "url": "git+https://github.com/ShawnZhong/AP-Physics-C-Mechanics.git"
   },
-  "bugs": {
-    "url": "https://github.com/ShawnZhong/AP-Physics-C-Mechanics/issues"
-  },
   "homepage": "https://github.com/ShawnZhong/AP-Physics-C-Mechanics#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-katex": "^1.1.4",
     "gitbook-plugin-meta": "^0.1.12",
-    "gitbook-plugin-sitemap": "^1.2.0"
+    "gitbook-plugin-sitemap": "^1.2.0",
+    "gitbook-plugin-ga": "2.0.0"
   }
 }
