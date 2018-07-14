@@ -1,4 +1,4 @@
-# AP Physics C Mechanics @ [mech.shawnzhong.com](https://macro.shawnzhong.com)
+# AP Physics C Mechanics @ [mech.shawnzhong.com](https://mech.shawnzhong.com)
 Notes and Exercises on Advanced Placement Physics C Mechanics
 
 Your comments and criticism are greatly welcomed.
