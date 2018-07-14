@@ -1,13 +1,13 @@
 {
-  "name": "ap-macroeconomics",
+  "name": "ap-physics-c-mechanics",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShawnZhong/AP-Macroeconomics.git"
+    "url": "git+https://github.com/ShawnZhong/AP-Physics-C-Mechanics.git"
   },
   "bugs": {
-    "url": "https://github.com/ShawnZhong/AP-Macroeconomics/issues"
+    "url": "https://github.com/ShawnZhong/AP-Physics-C-Mechanics/issues"
   },
-  "homepage": "https://github.com/ShawnZhong/AP-Macroeconomics#readme",
+  "homepage": "https://github.com/ShawnZhong/AP-Physics-C-Mechanics#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-katex": "^1.1.4",
