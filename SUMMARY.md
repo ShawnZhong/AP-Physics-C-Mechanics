@@ -42,9 +42,9 @@
 ---
 ### Problem Set
 
+* [1998 Multiple Choice](1998 Multiple Choice.md)
 * [2004 Multiple Choice](2004 Multiple Choice.md)
 * [2009 Multiple Choice](2009 Multiple Choice.md)
-* [1998 Multiple Choice](1998 Multiple Choice.md)
 * [Free Response 1999-2001](Free Response 1999-2001.md)
 * [Free Response 2002-2004](Free Response 2002-2004.md)
 * [Free Response 2005-2007](Free Response 2005-2007.md)
