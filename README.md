@@ -7,107 +7,109 @@ I took notes based on the videos tutorials at [educator.com](https://www.educato
 
 Problem set contains all problems that I did wrong or worth noticing
 
+You can also download a PDF version   <a href="AP-Physics-C-Mechanics.pdf"  target="_blank" >here</a>
+
 Feel free to visit my website [shawnzhong.com](https://shawnzhong.com)
 
 # Past Exams
 
 ##### Released Exam
 
-[Released Exam 1984](./exams/Released Exam 1984.pdf)
+<a href="exams/Released Exam 1984.pdf" target="_blank">Released Exam 1984</a>
 
-[Released Exam 1988](./exams/Released Exam 1988.pdf)
+<a href="exams/Released Exam 1988.pdf" target="_blank">Released Exam 1988</a>
 
-[Released Exam 1993](./exams/Released Exam 1993.pdf)
+<a href="exams/Released Exam 1993.pdf" target="_blank">Released Exam 1993</a>
 
-[Released Exam 1998](./exams/Released Exam 1998.pdf)
+<a href="exams/Released Exam 1998.pdf" target="_blank">Released Exam 1998</a>
 
-[Released Exam 2004 Answers](./exams/Released Exam 2004 Answers.pdf)
+<a href="exams/Released Exam 2004 Answers.pdf" target="_blank">Released Exam 2004 Answers</a>
 
-[Released Exam 2004](./exams/Released Exam 2004.pdf)
+<a href="exams/Released Exam 2004.pdf" target="_blank">Released Exam 2004</a>
 
-[Released Exam 2009 Answers](./exams/Released Exam 2009 Answers.pdf)
+<a href="exams/Released Exam 2009 Answers.pdf" target="_blank">Released Exam 2009 Answers</a>
 
-[Released Exam 2009](./exams/Released Exam 2009.pdf)
+<a href="exams/Released Exam 2009.pdf" target="_blank">Released Exam 2009</a>
 
-[Released Exam 2014](./exams/Released Exam 2014.pdf)
+<a href="exams/Released Exam 2014.pdf" target="_blank">Released Exam 2014</a>
 
 ##### Free Response
 
-[Free Response 1999](./exams/Free Response 1999.pdf)
+<a href="exams/Free Response 1999.pdf" target="_blank">Free Response 1999</a>
 
-[Free Response 2000](./exams/Free Response 2000.pdf)
+<a href="exams/Free Response 2000.pdf" target="_blank">Free Response 2000</a>
 
-[Free Response 2001](./exams/Free Response 2001.pdf)
+<a href="exams/Free Response 2001.pdf" target="_blank">Free Response 2001</a>
 
-[Free Response 2002](./exams/Free Response 2002.pdf)
+<a href="exams/Free Response 2002.pdf" target="_blank">Free Response 2002</a>
 
-[Free Response 2003](./exams/Free Response 2003.pdf)
+<a href="exams/Free Response 2003.pdf" target="_blank">Free Response 2003</a>
 
-[Free Response 2004](./exams/Free Response 2004.pdf)
+<a href="exams/Free Response 2004.pdf" target="_blank">Free Response 2004</a>
 
-[Free Response 2005](./exams/Free Response 2005.pdf)
+<a href="exams/Free Response 2005.pdf" target="_blank">Free Response 2005</a>
 
-[Free Response 2006](./exams/Free Response 2006.pdf)
+<a href="exams/Free Response 2006.pdf" target="_blank">Free Response 2006</a>
 
-[Free Response 2007](./exams/Free Response 2007.pdf)
+<a href="exams/Free Response 2007.pdf" target="_blank">Free Response 2007</a>
 
-[Free Response 2008](./exams/Free Response 2008.pdf)
+<a href="exams/Free Response 2008.pdf" target="_blank">Free Response 2008</a>
 
-[Free Response 2009](./exams/Free Response 2009.pdf)
+<a href="exams/Free Response 2009.pdf" target="_blank">Free Response 2009</a>
 
-[Free Response 2010](./exams/Free Response 2010.pdf)
+<a href="exams/Free Response 2010.pdf" target="_blank">Free Response 2010</a>
 
-[Free Response 2011](./exams/Free Response 2011.pdf)
+<a href="exams/Free Response 2011.pdf" target="_blank">Free Response 2011</a>
 
-[Free Response 2012](./exams/Free Response 2012.pdf)
+<a href="exams/Free Response 2012.pdf" target="_blank">Free Response 2012</a>
 
-[Free Response 2013](./exams/Free Response 2013.pdf)
+<a href="exams/Free Response 2013.pdf" target="_blank">Free Response 2013</a>
 
-[Free Response 2014](./exams/Free Response 2014.pdf)
+<a href="exams/Free Response 2014.pdf" target="_blank">Free Response 2014</a>
 
-[Free Response 2015](./exams/Free Response 2015.pdf)
+<a href="exams/Free Response 2015.pdf" target="_blank">Free Response 2015</a>
 
-[Free Response 2016](./exams/Free Response 2016.pdf)
+<a href="exams/Free Response 2016.pdf" target="_blank">Free Response 2016</a>
 
 ##### Scoring Guidelines 
 
-[Scoring Guidelines 1999](./exams/Scoring Guidelines 1999.pdf)
+<a href="exams/Scoring Guidelines 1999.pdf" target="_blank">Scoring Guidelines 1999</a>
 
-[Scoring Guidelines 2000](./exams/Scoring Guidelines 2000.pdf)
+<a href="exams/Scoring Guidelines 2000.pdf" target="_blank">Scoring Guidelines 2000</a>
 
-[Scoring Guidelines 2001](./exams/Scoring Guidelines 2001.pdf)
+<a href="exams/Scoring Guidelines 2001.pdf" target="_blank">Scoring Guidelines 2001</a>
 
-[Scoring Guidelines 2002](./exams/Scoring Guidelines 2002.pdf)
+<a href="exams/Scoring Guidelines 2002.pdf" target="_blank">Scoring Guidelines 2002</a>
 
-[Scoring Guidelines 2003](./exams/Scoring Guidelines 2003.pdf)
+<a href="exams/Scoring Guidelines 2003.pdf" target="_blank">Scoring Guidelines 2003</a>
 
-[Scoring Guidelines 2004](./exams/Scoring Guidelines 2004.pdf)
+<a href="exams/Scoring Guidelines 2004.pdf" target="_blank">Scoring Guidelines 2004</a>
 
-[Scoring Guidelines 2005](./exams/Scoring Guidelines 2005.pdf)
+<a href="exams/Scoring Guidelines 2005.pdf" target="_blank">Scoring Guidelines 2005</a>
 
-[Scoring Guidelines 2006](./exams/Scoring Guidelines 2006.pdf)
+<a href="exams/Scoring Guidelines 2006.pdf" target="_blank">Scoring Guidelines 2006</a>
 
-[Scoring Guidelines 2007](./exams/Scoring Guidelines 2007.pdf)
+<a href="exams/Scoring Guidelines 2007.pdf" target="_blank">Scoring Guidelines 2007</a>
 
-[Scoring Guidelines 2008](./exams/Scoring Guidelines 2008.pdf)
+<a href="exams/Scoring Guidelines 2008.pdf" target="_blank">Scoring Guidelines 2008</a>
 
-[Scoring Guidelines 2009](./exams/Scoring Guidelines 2009.pdf)
+<a href="exams/Scoring Guidelines 2009.pdf" target="_blank">Scoring Guidelines 2009</a>
 
-[Scoring Guidelines 2010](./exams/Scoring Guidelines 2010.pdf)
+<a href="exams/Scoring Guidelines 2010.pdf" target="_blank">Scoring Guidelines 2010</a>
 
-[Scoring Guidelines 2011](./exams/Scoring Guidelines 2011.pdf)
+<a href="exams/Scoring Guidelines 2011.pdf" target="_blank">Scoring Guidelines 2011</a>
 
-[Scoring Guidelines 2012](./exams/Scoring Guidelines 2012.pdf)
+<a href="exams/Scoring Guidelines 2012.pdf" target="_blank">Scoring Guidelines 2012</a>
 
-[Scoring Guidelines 2013](./exams/Scoring Guidelines 2013.pdf)
+<a href="exams/Scoring Guidelines 2013.pdf" target="_blank">Scoring Guidelines 2013</a>
 
-[Scoring Guidelines 2014](./exams/Scoring Guidelines 2014.pdf)
+<a href="exams/Scoring Guidelines 2014.pdf" target="_blank">Scoring Guidelines 2014</a>
 
-[Scoring Guidelines 2015](./exams/Scoring Guidelines 2015.pdf)
+<a href="exams/Scoring Guidelines 2015.pdf" target="_blank">Scoring Guidelines 2015</a>
 
-[Scoring Guidelines 2016](./exams/Scoring Guidelines 2016.pdf)
+<a href="exams/Scoring Guidelines 2016.pdf" target="_blank">Scoring Guidelines 2016</a>
 
 ##### Others
-[Sample Questions](./exams/Sample Questions.[Sample Questions](./exams/Sample Questions.pdf)
+<a href="exams/Sample Questions.pdf" target="_blank">Sample Questions</a>
 
-[Practice Exam](./exams/Practice Exam.pdf)
+<a href="exams/Practice Exam.pdf" target="_blank">Practice Exam</a>
