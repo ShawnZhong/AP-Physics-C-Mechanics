@@ -13,5 +13,8 @@
 		"sitemap": {
 			"hostname": "https://mech.shawnzhong.com/"
 		}
+	},
+	"styles": {
+		"website": "styles/website.css"
 	}
 }
