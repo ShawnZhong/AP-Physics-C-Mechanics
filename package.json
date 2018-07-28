@@ -1,10 +1,4 @@
 {
-  "name": "ap-physics-c-mechanics",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ShawnZhong/AP-Physics-C-Mechanics.git"
-  },
-  "homepage": "https://github.com/ShawnZhong/AP-Physics-C-Mechanics#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-katex": "^1.1.4",
