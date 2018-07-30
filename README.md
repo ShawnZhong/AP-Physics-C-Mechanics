@@ -1,4 +1,4 @@
-# [AP Physics C Mechanics](https://mech.shawnzhong.com)
+# [AP Physics C: Mechanics](https://mech.shawnzhong.com)
 Notes and Exercises on Advanced Placement Physics C: Mechanics. Your comments and criticism are greatly welcomed.
 
 I took notes based on the videos tutorials at [educator.com](https://www.educator.com/physics/ap-physics-c-mechanics/fullerton/), and the past exams collected below.
